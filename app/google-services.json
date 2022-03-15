@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931252192375",
+    "project_id": "sup-chatapp-a676f",
+    "storage_bucket": "sup-chatapp-a676f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931252192375:android:0419582d67afc62ce1b272",
+        "android_client_info": {
+          "package_name": "com.example.supchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931252192375-2a16t9s0h042bl7e9hvco5876tm15a0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supchatapp",
+            "certificate_hash": "d58edb65f3f9e4b577eeeaad5c384313534d088d"
+          }
+        },
+        {
+          "client_id": "931252192375-ofnbl0v3ko70ohjbv5mdh96lh3853lfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSiDgF5UEwWF1PqC9jfUUhBSchnK-fzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931252192375-ofnbl0v3ko70ohjbv5mdh96lh3853lfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
